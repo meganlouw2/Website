@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+    <meta name="viewport" content="with=device-width, initial-scale=1.0">
+    <title>Shell website design-easy tutorials</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>SHELL</h1>
+                 href="js basics practice">img src="<img src="malaysia" alt="images/malaysia">
+                <div class="hav-links">
+                    <ul>
+                        <li><a href="">ABOUT</a></li>
+                        <li><a href="">HISTORY</a></li>
+                        <li><a href="">PRESENT</a></li>
+                        <li><a href="">VALUES</a></li>
+                        <li><a href="">CONTACT</a></li>
+                    </ul>
+
+                </div>
+    </body>
+    
